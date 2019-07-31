@@ -1,3 +1,2 @@
 # Coding_Challenge-8
-Build a startup landing page that actually works!
-There and Back Again 
+Build a startup landing page!
